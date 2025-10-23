@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Inmueble.iml" filepath="$PROJECT_DIR$/Inmueble.iml" />
+>>>>>>> cde4748 (Programa_Inmuble)
     </modules>
   </component>
 </project>
